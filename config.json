@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6285764747306@s.whatsapp.net","6281379597443@s.whatsapp.net"],
+    "ownerName": "Muhammad Daud Abdul Aziz ×፝֟͜×",
+    "instagram" : "https://instagram.com/anonhack138",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "anonbot",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
